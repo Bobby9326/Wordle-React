@@ -4,7 +4,7 @@ Wordle-React is a word-guessing game inspired by Wordle. Players have 6 attempts
 
 ## 🎮 Gameplay Example
 
-
+![Preview](./image/screen.png)
 
 ## 🚀 Features
 
@@ -45,7 +45,6 @@ npm install
 npm start
 ```
 
-Open your browser and navigate to `http://localhost:3000` to start playing.
 
 
 ## 📜 Credits
